@@ -1,0 +1,16 @@
+{
+  "name": "some-state-v2x",
+  "version": "1.0.0",
+  "description": "V2X application needing user state",
+  "main": "app.js",
+  "keywords": [
+    "v2x"
+  ],
+  "author": "Hathibelagal",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.2",
+    "express": "^4.17.1"
+  }
+}
+

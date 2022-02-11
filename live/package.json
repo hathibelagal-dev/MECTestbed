@@ -1,0 +1,13 @@
+{
+  "name": "live",
+  "version": "1.0.0",
+  "description": "Stores POA data on Memcached",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.2",
+    "memcached": "^2.2.2",
+    "memcached-promise": "^1.0.1"
+  }
+}

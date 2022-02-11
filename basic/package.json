@@ -1,0 +1,15 @@
+{
+  "name": "basic-v2x",
+  "version": "1.0.0",
+  "description": "Basic v2x application",
+  "main": "app.js",
+  "keywords": [
+    "v2x"
+  ],
+  "author": "Hathibelagal",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.8.2"
+  }
+}
+
